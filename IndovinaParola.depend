@@ -1,0 +1,240 @@
+# depslib dependency file v1.0
+1732101391 source:c:\users\matti\onedrive\desktop\indovinaparola\main.cpp
+	<iostream>
+	"parola.h"
+	<cstdio>
+	<string>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<vector>
+
+1733074778 source:c:\users\matti\onedrive\desktop\indovinaparola\parola.cpp
+	<iostream>
+	"parola.h"
+	"Record.h"
+	"recordFacile.h"
+	"recordDifficile.h"
+	<cstdio>
+	<string>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<vector>
+	<conio.h>
+
+1733067223 c:\users\matti\onedrive\desktop\indovinaparola\parola.h
+	<string>
+	<vector>
+
+1733071140 c:\users\matti\onedrive\desktop\indovinaparola\record.h
+	<string>
+	<vector>
+	"persona.h"
+
+1733075326 source:c:\users\matti\onedrive\desktop\indovinaparola\record.cpp
+	"Record.h"
+	<iostream>
+	"parola.h"
+	<cstdio>
+	<string>
+	<string.h>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<vector>
+	<conio.h>
+	"persona.h"
+
+1731683426 source:e:\info\c++\indovinaparola\main.cpp
+	<iostream>
+	"parola.h"
+	<cstdio>
+	<string>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<vector>
+
+1731683966 e:\info\c++\indovinaparola\parola.h
+	<string>
+	<vector>
+
+1730791010 e:\info\c++\indovinaparola\record.h
+	<string>
+	<vector>
+
+1731684116 source:e:\info\c++\indovinaparola\parola.cpp
+	<iostream>
+	"parola.h"
+	<cstdio>
+	<string>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<vector>
+	<conio.h>
+
+1730791048 source:e:\info\c++\indovinaparola\record.cpp
+	"Record.h"
+	<iostream>
+	"parola.h"
+	<cstdio>
+	<string>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<vector>
+	<conio.h>
+
+1732561524 c:\users\matti\onedrive\desktop\indovinaparola\include\persona.h
+	<string>
+
+1733071494 c:\users\matti\onedrive\desktop\indovinaparola\persona.h
+	<string>
+
+1733071494 source:c:\users\matti\onedrive\desktop\indovinaparola\persona.cpp
+	"persona.h"
+
+1733074778 source:c:\users\matti\onedrive\desktop\indovinaparola\recordfacile.cpp
+	"recordFacile.h"
+	<iostream>
+	"parola.h"
+	<cstdio>
+	<string>
+	<string.h>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<vector>
+	<conio.h>
+	"persona.h"
+
+1733071140 c:\users\matti\onedrive\desktop\indovinaparola\recordfacile.h
+	<string>
+	<vector>
+	"persona.h"
+
+1733074810 source:c:\users\matti\onedrive\desktop\indovinaparola\recorddifficile.cpp
+	"recordDifficile.h"
+	<iostream>
+	"parola.h"
+	<cstdio>
+	<string>
+	<string.h>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<vector>
+	<conio.h>
+	"persona.h"
+
+1733071140 c:\users\matti\onedrive\desktop\indovinaparola\recorddifficile.h
+	<string>
+	<vector>
+	"persona.h"
+
+1732101391 source:c:\users\matti\desktop\indovinaparola\main.cpp
+	<iostream>
+	"parola.h"
+	<cstdio>
+	<string>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<vector>
+
+1733067223 c:\users\matti\desktop\indovinaparola\parola.h
+	<string>
+	<vector>
+
+1733075738 source:c:\users\matti\desktop\indovinaparola\parola.cpp
+	<iostream>
+	"parola.h"
+	"Record.h"
+	"recordFacile.h"
+	"recordDifficile.h"
+	<cstdio>
+	<string>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<vector>
+	<conio.h>
+
+1733071140 c:\users\matti\desktop\indovinaparola\record.h
+	<string>
+	<vector>
+	"persona.h"
+
+1733071494 c:\users\matti\desktop\indovinaparola\persona.h
+	<string>
+
+1733071140 c:\users\matti\desktop\indovinaparola\recordfacile.h
+	<string>
+	<vector>
+	"persona.h"
+
+1733071140 c:\users\matti\desktop\indovinaparola\recorddifficile.h
+	<string>
+	<vector>
+	"persona.h"
+
+1733071494 source:c:\users\matti\desktop\indovinaparola\persona.cpp
+	"persona.h"
+
+1733075326 source:c:\users\matti\desktop\indovinaparola\record.cpp
+	"Record.h"
+	<iostream>
+	"parola.h"
+	<cstdio>
+	<string>
+	<string.h>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<vector>
+	<conio.h>
+	"persona.h"
+
+1733074810 source:c:\users\matti\desktop\indovinaparola\recorddifficile.cpp
+	"recordDifficile.h"
+	<iostream>
+	"parola.h"
+	<cstdio>
+	<string>
+	<string.h>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<vector>
+	<conio.h>
+	"persona.h"
+
+1733074778 source:c:\users\matti\desktop\indovinaparola\recordfacile.cpp
+	"recordFacile.h"
+	<iostream>
+	"parola.h"
+	<cstdio>
+	<string>
+	<string.h>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<vector>
+	<conio.h>
+	"persona.h"
+
